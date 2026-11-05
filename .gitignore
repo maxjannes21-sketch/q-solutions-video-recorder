@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Keep only the real sample recording in the repository.
+video/*.webm
+!video/Q Solutions.webm
